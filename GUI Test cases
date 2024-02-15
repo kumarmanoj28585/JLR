@@ -1,0 +1,6 @@
+GUI Testing Test cases
+Enter the correct URL in the address bar to view the JLR website.
+JLR login page should display with JLR content in the web site
+User can able to view the information provided regarding the JLR models
+Display text should viewed properly with out overlapping  the text data with each other.
+The images displayed in the scroll bar should automatically display there different models with a spam of mentioned time line.
