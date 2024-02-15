@@ -1,0 +1,5 @@
+API testing test cases
+POST./store/order.Place an order for the pet
+GET./store/order/{orderid} Find purchase order by ID.
+/Store/order/{orderid} Delete purchase order by ID.
+GET./store/inventory.Returns pet inventories by status.
