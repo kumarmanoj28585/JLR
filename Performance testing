@@ -1,0 +1,5 @@
+Performance Testing Test Cases
+Enter the URL in the address bar 
+Check response time when, More than 10 users were accessing the pet website simultaneously.
+Check after entering the URL in how much time it takes to respond.
+check the navigation time if the screen is navigated from one screen to different next screen.
